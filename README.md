@@ -1,4 +1,5 @@
-# athletic_sales_analysis# Sales Data Analysis Project
+# athletic_sales_analysis
+# Sales Data Analysis Project
 
 ## Overview
 This project focuses on analyzing sales data to uncover insights into sales trends, customer behaviors, and product performance. The analysis involves working with sales data from different months, with a focus on understanding patterns and trends in sales activities.
